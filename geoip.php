@@ -25,7 +25,7 @@ function getIpFromValue($value=0,$returnAsStr=true){
 
 $db = new mysqli('localhost','root','','db_country');
 
-$getipna = getIpValue("103.28.12.168");
+$getipna = getIpValue("8.8.8.8");
 // echo $getipna;
 // echo "<br>".getIpFromValue($getipna);
 
