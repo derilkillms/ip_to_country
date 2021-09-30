@@ -1,2 +1,2 @@
-# ip_to_country
+# ip to country
 Merubah IP menjadi code negara
